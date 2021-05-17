@@ -1,0 +1,4 @@
+<launch>
+        <node pkg="robot_voice" name = "iat_publish" type="iat_publish" output="screen"/>
+        <node pkg="robot_voice" name = "voice_assistant" type="voice_assistant" output="screen"/>
+</launch>
