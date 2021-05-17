@@ -1,0 +1,2 @@
+# Turing_communication
+基于ROS的使用图灵机器人进行的语音问答以及对话控制
